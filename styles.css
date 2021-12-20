@@ -122,7 +122,7 @@ a:active {
     color: green;
 }
 
-.text {
+.text1 {
     padding: 10px;
     background-color: #104256;
     margin-bottom: 20px;
@@ -130,7 +130,7 @@ a:active {
     animation: text-opacity 10s ease;
 }
 
-.text:hover {
+.text1:hover {
     transform: translateX(10px);
 }
 
